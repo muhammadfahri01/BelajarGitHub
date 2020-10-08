@@ -3,6 +3,7 @@ Rencana Konten
 Java
 *es6
 *Framework Javascript
+*Struktur Data
 Php Framework
 Interviews
 Vlogs

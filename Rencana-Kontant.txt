@@ -4,7 +4,10 @@ Java
 *es6
 *Framework Javascript
 *Struktur Data
+ -VIEW
 Php Framework
+  -LARAVEL
 Interviews
 Vlogs
+PYTHON
 

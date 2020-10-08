@@ -3,11 +3,12 @@ Rencana Konten
 Java
 *es6
 *Framework Javascript
--Angular
--Reach
-
+*Struktur Data
+ -VIEW
+ -REACH
 Php Framework
--Laravel
+  -LARAVEL
 Interviews
 Vlogs
+PYTHON
 
